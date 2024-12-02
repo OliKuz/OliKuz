@@ -1,7 +1,7 @@
 ## Hi there, I'm Olesya Kuzina 👋
 ### Computer Engineering student at La Salle BCN
 
-- 🌱 I’m currently learning: Java, C, SQL, Assembly, Python
+- 🌱 I’m currently learning: Java, C, SQL, Python, Swift
   
 - 📫 How to reach me: olesya_kuzina@outlook.com
 ### Connect with me on<a href="https://www.linkedin.com/in/olesya-kuzina-8b8299265/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" height="70" /></a>
