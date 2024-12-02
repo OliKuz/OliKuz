@@ -1,5 +1,5 @@
 ## Hi there, I'm Olesya Kuzina 👋
-### Computer Engineering student at La Salle BCN and Data Engineer Inter at Zurich TDC
+### Computer Engineering student at La Salle BCN and Data Engineering Intern at Zurich TDC
 
 - 🌱 I’m currently learning: Java, C, SQL, Python, Swift
   
